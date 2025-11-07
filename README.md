@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zafar Chowdhury</h1>
+
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGpvVqVQW7EBQ/profile-displaybackgroundimage-shrink_350_1400/B4EZo5w4aaKoAg-/0/1761905708235?e=1764201600&v=beta&t=Tc72iz9LbKffntH_-D-XF6I2WMEdJO3GWtgZwe59WdA">
 <h3 align="center">Creative Web Developer and WordPress Specialist | Helping Clients to Build User Focused WordPress Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devzafar68&label=Profile%20views&color=0e75b6&style=flat" alt="devzafar68" /> </p>
