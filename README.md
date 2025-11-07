@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Web Design Development & WordPress Development**
 
-- 📫 How to reach me **zafarchowdhury1968@gmail.com**
+- 📫 How to reach me **zafar594488@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TDyqJWi4ZyoRediK3Orhn6Y7ZqozS2yw/view?usp=sharing](https://drive.google.com/file/d/1TDyqJWi4ZyoRediK3Orhn6Y7ZqozS2yw/view?usp=sharing)
 
